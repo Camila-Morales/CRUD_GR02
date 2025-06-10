@@ -44,7 +44,7 @@ Para el desarrollo de nuestro proyecto tenemos la siguiente estructura que cuent
 - PHP
 - Base de datos
 
-## NOTAS ADICIONALES
+## 📋 NOTAS ADICIONALES
 Se debe crear una BDD llamada "empleados" que contenga los siguientes campos: 
 
 | Nombre de Campo           | Tipo de Dato     | Restricciones                   | Descripción                           |
