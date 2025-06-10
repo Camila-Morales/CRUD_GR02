@@ -19,12 +19,12 @@ Para el desarrollo de nuestro proyecto tenemos la siguiente estructura que cuent
 - - Actualizar Formulario
   - Enviar Formulario
 - 📂 PHP
-- -- Conexión
-- -- Insertar
-- -- Editar
-- -- Eliminar
-- -- Actualizar
-- -- Mostar
+- - Conexión
+- - Insertar
+- - Editar
+- - Eliminar
+- - Actualizar
+- - Mostar
 - INDEX
 
 ## 📷 Capturas del funcionamiento
