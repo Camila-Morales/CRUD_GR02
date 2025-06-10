@@ -66,5 +66,5 @@ Se debe crear una BDD llamada "empleados" que contenga los siguientes campos:
 Instrucciones para clonar el proyecto y ejecutarlo localmente:
 
 ```bash
-git clone [https://github.com/usuario/nombre-del-repo.git](https://github.com/Camila-Morales/CRUD_GR02.git)
+git clone https://github.com/usuario/nombre-del-repo.git
 cd nombre-del-repo
