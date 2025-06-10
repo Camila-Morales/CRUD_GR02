@@ -25,7 +25,7 @@ Para el desarrollo de nuestro proyecto tenemos la siguiente estructura que cuent
 - - Eliminar
 - - Actualizar
 - - Mostar
-- INDEX
+- 💻 INDEX
 
 ## 📷 Capturas del funcionamiento
 
