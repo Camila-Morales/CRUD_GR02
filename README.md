@@ -14,10 +14,12 @@ Creación de un CRUD de datos de EMPLEADOS
 
 Para el desarrollo de nuestro proyecto tenemos la siguiente estructura que cuenta con 3 carpetas y 
 - 📂 CSS
-- -
+- - Estilos
 - 📂 JS
 - - Actualizar Formulario
+  - Enviar Formulario
 - 📂 PHP
+- --
 - INDEX
 
 ## 📷 Capturas de Pantalla (opcional)
