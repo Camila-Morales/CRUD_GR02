@@ -27,17 +27,6 @@ Para el desarrollo de nuestro proyecto tenemos la siguiente estructura que cuent
 - - Mostar
 - 💻 INDEX
 
-## 📷 Capturas del funcionamiento
-
-- INSERTAR 
-
-- MOSTRAR
-
-- EDITAR
-
-- ELIMINAR
-
-![Captura](ruta/a/la/imagen.png)
 
 ## 🛠️ Tecnologías utilizadas
 
