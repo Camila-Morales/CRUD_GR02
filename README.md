@@ -31,7 +31,7 @@ Para el desarrollo de nuestro proyecto tenemos la siguiente estructura que cuent
 ## 🛠️ Tecnologías utilizadas
 
 - PHP
-- Base de datos
+- MYSQL para la BDD
 
 ## 📋 NOTAS ADICIONALES
 Se debe crear una BDD llamada "empleados" que contenga los siguientes campos: 
