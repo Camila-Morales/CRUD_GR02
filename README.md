@@ -19,21 +19,30 @@ Para el desarrollo de nuestro proyecto tenemos la siguiente estructura que cuent
 - - Actualizar Formulario
   - Enviar Formulario
 - 📂 PHP
-- --
+- -- Conexión
+- -- Insertar
+- -- Editar
+- -- Eliminar
+- -- Actualizar
+- -- Mostar
 - INDEX
 
-## 📷 Capturas de Pantalla (opcional)
+## 📷 Capturas del funcionamiento
 
-Agrega aquí imágenes que muestren el funcionamiento de tu app:
+- INSERTAR 
+
+- MOSTRAR
+
+- EDITAR
+
+- ELIMINAR
 
 ![Captura](ruta/a/la/imagen.png)
 
 ## 🛠️ Tecnologías utilizadas
 
-- Lenguaje / Framework (por ejemplo: React, Spring Boot, Flask)
+- PHP
 - Base de datos
-- APIs externas
-- Otras herramientas (por ejemplo: Docker, Firebase)
 
 ## ⚙️ Instalación
 
@@ -42,5 +51,3 @@ Instrucciones para clonar el proyecto y ejecutarlo localmente:
 ```bash
 git clone https://github.com/usuario/nombre-del-repo.git
 cd nombre-del-repo
-npm install
-npm start
