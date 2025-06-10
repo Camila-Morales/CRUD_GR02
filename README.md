@@ -10,7 +10,7 @@ Creación de un CRUD de datos de EMPLEADOS
 - ✅ Matthew Salazar
 - ✅ Jerly Reinoso
 
-## Estructura del proyecto
+## 💻 Estructura del proyecto
 
 Para el desarrollo de nuestro proyecto tenemos la siguiente estructura que cuenta con 3 carpetas y 
 - 📂 CSS
@@ -46,17 +46,17 @@ Para el desarrollo de nuestro proyecto tenemos la siguiente estructura que cuent
 
 ## NOTAS ADICIONALES
 Se debe crear una BDD llamada "empleados" que contenga los siguientes campos: 
-|CREATE TABLE empleados (
-  ID_empleado INT AUTO_INCREMENT PRIMARY KEY,
-  Nombre_empleado VARCHAR(255) NOT NULL,
-  Email_empleado VARCHAR(255) NOT NULL,
-  Direccion_empleado varchar(255) not null,
-  Telefono_empleado VARCHAR(255) NOT NULL,
-  Fecha_creacion_empleado date not null,
-  Fecha_edicion_empleado date not null,
-  Estado_empleado varchar(100) not null
-  
-); |
+
+| Nombre de Campo           | Tipo de Dato     | Restricciones                   | Descripción                           |
+|--------------------------|------------------|--------------------------------|-------------------------------------|
+| `ID_empleado`            | `INT`            | `AUTO_INCREMENT`, `PRIMARY KEY`| Identificador único del empleado    |
+| `Nombre_empleado`        | `VARCHAR(255)`   | `NOT NULL`                     | Nombre completo del empleado         |
+| `Email_empleado`         | `VARCHAR(255)`   | `NOT NULL`                     | Correo electrónico del empleado      |
+| `Direccion_empleado`     | `VARCHAR(255)`   | `NOT NULL`                     | Dirección física del empleado         |
+| `Telefono_empleado`      | `VARCHAR(255)`   | `NOT NULL`                     | Número telefónico del empleado        |
+| `Fecha_creacion_empleado`| `DATE`           | `NOT NULL`                     | Fecha en que se creó el registro      |
+| `Fecha_edicion_empleado` | `DATE`           | `NOT NULL`                     | Fecha de la última edición            |
+| `Estado_empleado`        | `VARCHAR(100)`   | `NOT NULL`                     | Estado actual del empleado (activo, inactivo, etc.) |
 
 ## ⚙️ Instalación
 
