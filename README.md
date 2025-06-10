@@ -58,6 +58,9 @@ Se debe crear una BDD llamada "empleados" que contenga los siguientes campos:
 | `Fecha_edicion_empleado` | `DATE`           | `NOT NULL`                     | Fecha de la última edición            |
 | `Estado_empleado`        | `VARCHAR(100)`   | `NOT NULL`                     | Estado actual del empleado (activo, inactivo, etc.) |
 
+‼️ Adicional en la Clase "Conexion" ubicada en la carpeta "Php" se debe cambiar las credenciales a las que utilice dependiendo de su gestor de base de datos.
+
+
 ## ⚙️ Instalación
 
 Instrucciones para clonar el proyecto y ejecutarlo localmente:
